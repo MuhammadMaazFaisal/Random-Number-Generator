@@ -6,13 +6,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>Random Number Generator Web App</title>
-  <meta name="description" content="A simple HTML5 Template for new projects.">
-  <meta name="author" content="SitePoint">
-
-  <meta property="og:title" content="A random number generator">
-  <meta property="og:type" content="website">
-  <meta property="og:description" content="There are various use cases for a Random Number Generator. You could do a random dice roll or get a random quote. Most of the time, the implementation is relatively straightforward and similar to this project’s approach. In this project, we will create a dice roll simulation.">
-
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
 </head>
